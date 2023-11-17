@@ -1,0 +1,4 @@
+/data
+/datasets
+/pipeline/runs
+/pipeline/yolov8n-seg.pt

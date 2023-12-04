@@ -1,4 +1,4 @@
-## Steps
+## Steps For Berry Annotations
 
 - panorma - create a panorama of the images
 
@@ -19,6 +19,12 @@
 - format - format the dataset and create a yolo compatible dataset
 
 - train - train the model!
+
+## Steps For Leaf Annotations
+
+- split - split images into smaller images
+
+- classify - classify the leaf with leaf rust or not
 
 
 ## Models For Transfer Learning

@@ -1,4 +1,5 @@
 /data
 /datasets
-/pipeline/runs
-/pipeline/yolov8n-seg.pt
+/berries/runs
+/berries/yolov8n-seg.pt
+/runs

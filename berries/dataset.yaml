@@ -1,0 +1,7 @@
+
+path: /home/jack/Mounts/DiskOne/kona_coffee/dataset/
+train: train/images
+test: test/images
+val: validate/images
+
+names: ['bean']
